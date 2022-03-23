@@ -1,0 +1,14 @@
+{
+  "googleSignin": "Sign in with Google",
+  "facebookSignin": "Continue with Facebook",
+  "password": "पासवर्ड",
+  "passwordPlaceholder": "अपना पासवर्ड डालें",
+  "passwordRequired": "पासवर्ड आवश्यक",
+  "privacyPolicy": "गोपनीयता नीति",
+  "terms&Conditions": "नियम और शर्तें",
+  "verifyEmail": "कृपया अपने ईमेल खाते पर भेजे गए मेल को सत्यापित करें",
+  "passwordMatch": "पासवर्डों को मेल खाना चाहिए",
+  "resetPassword": "पासवर्ड रीसेट",
+  "newPassword": "नया पासवर्ड",
+  "confirmPassword": "पासवर्ड की पुष्टि कीजिये"
+}

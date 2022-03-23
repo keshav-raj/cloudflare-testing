@@ -1,0 +1,18 @@
+{
+  "aboutThisBundle": "इस बंडल के बारे में",
+  "aboutThisCourse": "इस कोर्स के बारे में",
+  "aboutThisMockTest": "इस टेस्ट के बारे में",
+  "aboutThisTestSeries": "इस टेस्ट-सीरीज़ के बारे में",
+  "bestSeller": "सर्वश्रेष्ठ विक्रेता",
+  "enrolled": "दाखिला लिया",
+  "hi": "नमस्ते",
+  "noCourses": "कोई पाठ्यक्रम नहीं",
+  "purchased": "खरीदा",
+  "searchByCourseTitle": "पाठ्यक्रम शीर्षक से खोज",
+  "welcomeTo": "welcome to",
+  "downloadCertificate": "सर्टिफिकेट डाउनलोड करें",
+  "outOf": "Out Of {{count}}",
+  "latestAttempt": "Latest Attempt",
+  "firstAttempt": "First Attempt",
+  "score": "score"
+}

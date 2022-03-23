@@ -1,0 +1,54 @@
+{
+  "defaultError": "Please try again.",
+  "raiseTicket": "Raise Ticket",
+  "goToHome": "Go to Home",
+  "errorCode": "Error Code: ",
+  "problemPersists": "*If problem persists please raise support ticket",
+  "404": {
+    "title": "Page not found"
+  },
+  "500": {
+    "title": "Server Error",
+    "subTitle": "Please try after sometime"
+  },
+  "501": {
+    "title": "Not implemented",
+    "subTitle": "Please raise support ticket"
+  },
+  "502": {
+    "title": "Service interrupted",
+    "subTitle": "Please check your internet connection and please try after sometime"
+  },
+  "503": {
+    "title": "Service unavailable",
+    "subTitle": "Please try after sometime"
+  },
+  "504": {
+    "title": "Service Timeout",
+    "subTitle": "Please try after sometime"
+  },
+  "400": {
+    "title": "Bad Request",
+    "subTitle": "Please refresh and try again"
+  },
+  "401": {
+    "title": "Login expired",
+    "subTitle": "Please refresh and try again"
+  },
+  "403": {
+    "title": "Access denied",
+    "subTitle": "Please refresh and try again"
+  },
+  "412": {
+    "title": "Wrong input paramaters",
+    "subTitle": "Please try again"
+  },
+  "422": {
+    "title": "Request invalid",
+    "subTitle": "Please try again"
+  },
+  "1000": {
+    "title": "Something went wrong",
+    "subTitle": "Please try after sometime"
+  }
+}

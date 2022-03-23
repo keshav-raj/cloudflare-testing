@@ -1,0 +1,22 @@
+{
+  "submit": "Submit",
+  "ok": "OK",
+  "required": "Field required",
+  "minCharacter": "Minimum character",
+  "maxCharacter": "Maximum character",
+  "min": "min",
+  "max": "max",
+  "profileBuilderInstruction": "Please fill in the additional profile information.",
+  "*": "*",
+  "skip": "skip",
+  "enter": "Enter",
+  "mandatoryFields": "* fields are mandatory, Please fill them",
+  "edit": "Edit",
+  "yourData": "Your Data",
+  "minValue": "Minimum value should be ",
+  "maxValue": "Maximum value should be ",
+  "selectOption": "Select option",
+  "startDate": "Start date should be on or after",
+  "endDate": "End date should be on or before",
+  "profileFieldsUpdatedSuccessfully": "Profile Fields updated successfully."
+}

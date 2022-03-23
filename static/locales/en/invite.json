@@ -1,0 +1,41 @@
+{
+  "availableBalance": "Available balance",
+  "copiedSuccefully": "Code copied successfully",
+  "creditsUsed": "Credits used",
+  "creditsEarned": "Credits earned",
+  "credit": "credit",
+  "debit": "debit",
+  "friend": "friend",
+  "friend_plural": "friends",
+  "howToInviteHeading": "How to invite & earn?",
+  "invite&Earn": "Invite & Earn",
+  "invitePageSubline": "Invite your friends and earn credits/rewards",
+  "referralCode": "Referral code",
+  "referralCodeApplied": "Referral code applied",
+  "share&Invite": "Share & Invite",
+  "step": "step",
+  "stillHaveQuestions": "Still have questions?",
+  "seeReport": "See report",
+  "totalInvited": "Total Invited",
+  "transactionLogs": "Transaction logs",
+  "yourReferralCode": "Your Referral Code",
+  "yourWallet": "Your wallet",
+  "viewFaqs": "View FAQs",
+  "totalRewards": "Total rewards",
+  "inviteFaqs": {
+    "1": "Invite your friends by sharing your referal link",
+    "2": "Your friend sign-up using your unique link",
+    "3": "Get rewarded on successful sign-up"
+  },
+  "transaction": "transaction",
+  "transactionEvents": {
+    "ADMIN_CREDIT": "Credited by admin",
+    "ADMIN_DEBIT": "Debited by admin",
+    "REFERAL_CREATE": "Generated Referral Code",
+    "REFERAL_CODE": "New sign up with your code",
+    "REFEREE_FIRST_ORDER": "Referee made first purchase",
+    "DEBIT_ORDER": "Debited for purchase",
+    "CREDIT_COURSE": "Credit course",
+    "REFERAL_SIGNUP": "New sign up with your code"
+  }
+}
